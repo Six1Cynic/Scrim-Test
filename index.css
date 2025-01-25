@@ -2,7 +2,8 @@ body {
     margin: 0;
 }
 h3 {
-    font-size: 48px;;
+    font-size: 48px;
+    color:red;
 }
 
 .container {
